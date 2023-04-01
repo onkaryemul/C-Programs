@@ -1,0 +1,9 @@
+
+Name:Onkar
+Marks=98
+
+Name:Jay
+Marks=76
+
+Name:Yogesh
+Marks=98
